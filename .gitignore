@@ -1,0 +1,8 @@
+datasets/cifar-10-python.tar.gz
+hymenoptera_data/*
+logs/*
+test/*
+models/*
+datasets/*
+maze_0.mp4
+.ipynb_checkpoints/Pytorch Tutorial-checkpoint.ipynb
